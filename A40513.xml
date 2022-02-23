@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>From our yearly meeting at York, the 10th. of the 5th. month, 1690. To all our women friends in their monthly meetings, in and throughout the county of York, or else where, greeting</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40513</idno>
+            <idno type="STC">Wing F2240A</idno>
+            <idno type="STC">ESTC R220310</idno>
+            <idno type="EEBO-CITATION">99831729</idno>
+            <idno type="PROQUEST">99831729</idno>
+            <idno type="VID">36196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>From our yearly meeting at York, the 10th. of the 5th. month, 1690. To all our women friends in their monthly meetings, in and throughout the county of York, or else where, greeting</title>
+                  <author>Winn, Deborah. aut</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Deborah Winn [and 7 others].</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Women --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36196:1"/>
+            <!-- PDF PAGE 22 -->
+            <opener>
+               <dateline>From our Yearly Meeting at <hi>York,</hi> 
+                  <date>the 10th. of the 5th. Month, 1690.</date>
+               </dateline>
+               <salute>To all our Women Friends in their Monthly Meetings, in and throughout the County of <hi>York,</hi> or elſe where, Greeting.<lb/>
+DEar Friends and Siſters,</salute>
+            </opener>
+            <p>we being met together in the fear of the Lord to wait upon him, for his Antient power; to order and guide us in his Work and Service; Relating to our Church af<g ref="char:EOLhyphen"/>fairs: He hath been pleaſed in his wonted Kindneſs, to break in upon Us, and hath opened the fountain of his Love unto us, and the ſtreams thereof hath freely run from Veſſel to Veſſel, praiſes be given to him for ever. And many living Teſtimonies by our Brethren and Siſters have been born amongſt us: Alſo, we have received many good and comfortable Epiſtles in writing from ſeverall Monthly meetings within our County, to our great ſatisfaction, of the care and concern of Friends in their reſpective places for the honour of God and proſperity of his Truth; for great and large hath been the love of God unto us and amongſt us, to our great encouragement, that we can do no leſs but Invite you our dear Friends and Siſters, who profeſs the Honourable Name of God and his bleſſed Truth, unto whom this is the Salutation of our endeared Love to you all, who have paſſed through many ſlanderous reproaches for your live<g ref="char:EOLhyphen"/>ing obedience to it: Oh! Friends let it be as wieghty on your hearts and minds as ever it was, and let your care and circumſpection be as great as ever, (in every reſpect;) for the way is the ſame, the Lord is the ſame, and his Truth is the ſame; And all that abides in it finds as great neceſſity as ever to keep to the daily Croſs, that thereby they may be Crucified to the World, and the World unto them, that ſo they may ſtand clear and unſpotted or defiled by the evill of it, or the vain Cuſtoms, Faſhions and Traditions therein, and more particularly that you have a diligent care in reſpect to Truths honour, and the unity and Fellowſhip with thoſe many wholſome Exhortations and Admonitions which from time to time have been
+<pb n="2" facs="tcp:36196:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 23 -->recommended to you and us, by our Brethren and Siſters, whoſe Labours and Exerciſe is in the Word and Doctrine of our Lord Jeſus Chriſt: So that in order thereto, we who are of the Fe<g ref="char:EOLhyphen"/>male Sex, anſwer our places; and ye that are Mothers of Chil<g ref="char:EOLhyphen"/>dren, and have the Ordering and Governing of them (it may be more then Fathers, becauſe they may be more abſent) we do adviſe and exhort you all, to be very dilligent to anſwer your places to your Children in a Holy care and watchfullneſs over them<g ref="char:punc">▪</g> and that you Reſtrain them while they are young, from all fooliſh and unneceſſary things; Either in Apparell which lyes more parti<g ref="char:EOLhyphen"/>cularly upon Mothers to put a ſtop to, as alſo the new <hi>Changable</hi> un<g ref="char:EOLhyphen"/>neceſſary Faſhons of high dreſſed Heads, which is ſo extreamely run into by the People of the World, and too many profeſſing truth, a Faſhon not becoming modeſty, much leſs Women profeſſing God<g ref="char:EOLhyphen"/>lyneſs; Therefore we deſire that yon Reſtrain your Children from the practiſe of it; as alſo from needleſs Dreſſes about your Meat, which Youth in our day is too prone unto in ſome places: Theſe with any other that may be unneceſſeſary, we lay it as a conſcern upon you elder Women. That as the Holy Women in Antient times ye may be good patterns, and train up the Young-ones in the days of their Youth, in the way which they ſhould walk: And then if they come to maturity of Years, and underſtanding, they will not forget, but as truth is Planted in them, and they growing in it, will bleſs God on your behalf: That you reſtrained them from the Vanities of this World, and will be a bleſſing unto you in your Old age, even as faithfull Plants about your Tables, and you may be as Mothers in <hi>Iſrael;</hi> Nurſing up the Young Women in that which is good, that ſo when you grow in Years they may be willing and fit to bear part with you, not only in your outward concerns and buſineſs, but alſo in relation to truth and the concerns of it, in your Monthly and Womens meetings, that they may be in readineſs to put to their Shoulders to bear, and their Hands to Labour in their Day and time, and not to bring them up as ſtrangers and unaquainted with the way of truth, as if you never intended them to be of the number amongſt you, and they willing to be unconcerned and at liberty, not comeing
+<pb n="3" facs="tcp:36196:2"/>
+               <!-- PDF PAGE 23 -->
+into the ſence of the ſervice, and great neceſſity there is of it, by your not anſwering your places and puting them on therein; ſuch in proceſs of time may be ready to judg others and ſay, that th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y know no need of Womens meetings, nor they know no ſervice in them <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yea it may be (which would be cauſe of ſadneſs) the Children of ſuch Parents as have borne a Living Teſtimony for the ſame: And therefore we do adviſe and warn all ſuch in the fear of the Lord God: Keep low out of all exal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edneſs of mind, and do not think becauſe ye are Children of believing Parents, you are well enough; but come learn to tread in the Path of true ſelf denial, and to bear the Yoak in the dayes of your Youth, that ſo it may become natural to you to follow the footſteps of your faithfull Parents, and in true ſubjection to the Elders, haveing them in eſtimation as worthy of double Ho<g ref="char:EOLhyphen"/>nour for their Faithfulneſs to the Truth, and as thoſe that have borne the burthen and heat of the day, and yet are willing to labour with you, that have come in as at the Eleventh hour; that ſo you may receive your Peny, and reap of the fruits of their Labours, and walk in the path which they have troden out with much hardſhip, difficul<g ref="char:EOLhyphen"/>ty and great excerciſe, that ſo you may know your places and ſervice in this latter time of the day, which according to its ſeaſon the Lord calls for, for there is ſtill work to be done in his Vineyard, tho it be planted and hedged about in a good meaſure; yet there muſt be a d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ligent care that the Hedg be not broken down and that the li<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle Fox<g ref="char:EOLhyphen"/>es or the wild Boars, do not get in to ſpoile or lay waſte the Lords Vinyard, and alſo that care be taken to pluck up any noyſom Weeds, which ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be ſeen to ſpring up again that may hinder the grouth of the Righteous Plant of Renown, ſo dear Friends and Siſters, both Old and Young, it is our advice unto you, be willing to labour; And be diligent in keeping your Womens Meetings, and where any neglect hath been, that for the time to come you may be more dili<g ref="char:EOLhyphen"/>gent, and tho ſome that are of a quareling and ſeperating ſpirit, and cannot abide to come under reproof or judgment of the Men or Womens Meetings, and is ready to ſay there is no buſineſs not need for Women to be concerned in the Church: We ſay, that Wo<g ref="char:EOLhyphen"/>men ought to have a care, and concern as well as the Men, being
+<pb n="4" facs="tcp:36196:3"/>
+               <!-- PDF PAGE 24 -->
+members of the Church<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and every Member hath its Office in the Body, he who promiſed to power out his Spirit on Daugh<g ref="char:EOLhyphen"/>ters as on Sons: Surely hath concerned us in the Church, yea we have a Garden to weed, a Houſe to keep clean, inward as well as outward, which is a work neceſſary to be done, in this latter time or day, which calls for Fruits to be brought forth to the praiſe of him who hath beſtowed much Labour on us, and given us many fruitfull seaſons: So recommending you dear <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſters unto the Lord, and the guidance of his good Spirit in all your concerns, Referring you for a further account of the good Service of this Meeting, to ſuch Friends as were here preſent, where the Lords Love and goodneſs was plentifully manifeſted amongſt us, Bleſſed be his glorious Name<g ref="char:punc">▪</g> and power for Ever, and Ever,</p>
+            <closer>Amen.
+<signed>Signed on the Behalf of the Meeting.
+<list>
+                     <item>Deborah Winn.</item>
+                     <item>Sarah Engliſh.</item>
+                     <item>Sarah Fletcher.</item>
+                     <item>Judith Boulbie.</item>
+                     <item>Katherin Winn.</item>
+                     <item>Frances Taylor.</item>
+                     <item>Mary White.</item>
+                     <item>Margares Breckon.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
